@@ -1,6 +1,6 @@
 # git-workshop
 
-Teló
+Teló mudou de novo
 
 Olá! Este repositório vai ser utilizado como apoio para o minicurso Descobrindo o Git que será ministrado durante a [SECCOMP](http://www.rc.unesp.br/seccomp/) -  semana de estudos do curso de Ciências da Computação da UNESP Rio Claro. 
 
